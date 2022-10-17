@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AyyA7
-- 👀 I’m interested in coding ang technology
+- 👋 Hi, I’m Ayşenur
+- 👀 I’m interested in coding and technology expecially in FrontEnd
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me -->
+- 📫 How to reach me --> https://www.linkedin.com/in/aysenuraydin16/
 
 <!---
 AyyA7/AyyA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
