@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayşenur !
-- 👀 I’m interested in coding and technology expecially in Front-End technologies. I am eager to learn new skills and subjects about coding world.
+- 👀 I'm improving my skills and knowledge as a front-end developer.
 - 🌱 I’m currently learning <strong>Javascript and frameworks</strong> related with Front-End technologies
 - 📫 How to reach me --> <a>aydin.aysenur016@gmail.com</a>
 -----------
