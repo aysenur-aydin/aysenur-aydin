@@ -2,7 +2,9 @@
 - 👀 I'm improving my skills and knowledge as a front-end developer.
 - 🌱 I’m currently learning <strong>Javascript and frameworks</strong> related with Front-End technologies
 - 📫 How to reach me --> <a>aydin.aysenur016@gmail.com</a>
+
 -----------
+![aysenur-aydin](https://komarev.com/ghpvc/?username=aysenur-aydin&color=green)
 <div align="center">
   
 ### LANGUAGES
