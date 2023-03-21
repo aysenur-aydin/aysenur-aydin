@@ -9,11 +9,11 @@
   
 ### MY TOOLS
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />   
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />   
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />   
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="HTML"/>   
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS" />   
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="Javascript" />   
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" alt="React" />
 
 </div>
 
