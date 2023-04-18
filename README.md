@@ -13,6 +13,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="CSS" />   
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="Javascript" />   
 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" alt="React" />
 
 </div>
