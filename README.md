@@ -1,10 +1,20 @@
 ![aysenur-aydin](https://komarev.com/ghpvc/?username=aysenur-aydin&color=green)
-<p>👋 Hi, I’m Ayşenur ! </p>
-<p>👀 I'm improving my skills as a front-end developer. </p>
-<p>🌱 I'm deepening my knowledge of various front-end technologies while also learning algorithms. </p>
 
 <div align="center">
   
+----------------
+
+<h1> HELLO ! </h1>
+
+</div>
+
+<p>👋 I'm Ayşenur, a dedicated front-end developer with an engineering background. </p>
+<p>👀 I'm focused on enhancing my skills in front-end development. </p>
+<p>🌱 I'm deepening my knowledge of various front-end technologies while also learning algorithms. </p>
+
+-----------
+<div align="center">
+
 ### REACH ME
     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysenuraydin16/)
@@ -26,4 +36,5 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 </div>
+
 
