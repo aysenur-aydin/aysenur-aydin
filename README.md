@@ -11,6 +11,7 @@
 <p>👋 I'm Ayşenur, a dedicated front-end developer with an engineering background. </p>
 <p>👀 I'm focused on enhancing my skills in front-end development. </p>
 <p>🌱 I'm deepening my knowledge of various front-end technologies while also learning algorithms. </p>
+<p>⭐ You can look my portfolio web page -> <a href="https://aysenuraydin-portfolio.vercel.app">https://aysenuraydin-portfolio.vercel.app/</a> </p>
 
 -----------
 <div align="center">
