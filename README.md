@@ -1,4 +1,4 @@
-![aysenur-aydin](https://komarev.com/ghpvc/?username=aysenur-aydin&color=green)
+![aysenur-aydin](https://komarev.com/ghpvc/?username=aysenur-aydin&color=E98EB6&style=plastic)
 
 <div align="center">
   
