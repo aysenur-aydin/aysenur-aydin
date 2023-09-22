@@ -16,12 +16,12 @@
 -----------
 <div align="center">
 
-### REACH ME
+## REACH ME
     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aysenuraydin16/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aydin.aysenur016@gmail.com) 
   
-### MY SKILLS
+## SKILLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## LEET CODE PROFILE
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aysenuraydin?ext=heatmap)](https://leetcode.com/aysenuraydin)
 
 </div>
-
-
