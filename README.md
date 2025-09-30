@@ -5,7 +5,7 @@
 </div>
 
 <p>👋 I'm Ayşenur, a dedicated front-end developer with an engineering background. </p>
-<p>⭐ You can look my portfolio web page -> <a>coming soon</a> </p>
+<p>⭐ You can look my portfolio web page -> <a href="https://aysenuraydin.netlify.app/">Portfolio Page</a> </p>
 
 
 <div align="center">
